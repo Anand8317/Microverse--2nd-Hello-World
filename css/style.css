@@ -1,9 +1,10 @@
 body {
     background-color: #EEEEEE;
 }
+
 #header-img {
     float: left;
-    margin-right: 500px;
+    margin-right: 600px;
 }
 ul {
     list-style-type: none;
@@ -12,11 +13,13 @@ ul {
   }
   li {
       float: left;
+      margin-right: 30px;
   }
   a {
     display: block;
     padding: 8px;
-    background-color: #dddddd;
+    font-size: medium;
+    
   }
 #form {
   display: flex;
@@ -27,6 +30,7 @@ ul {
   text-align: center;
   justify-content: center;
   align-items: center;
+  
 }
 
 .legend-txt {
