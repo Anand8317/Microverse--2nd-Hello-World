@@ -82,7 +82,6 @@ a {
   margin-right: 35px;
 }
 
-<<<<<<< HEAD
 .footer {
   background-color: #dedede;
   display: flex;
@@ -108,11 +107,11 @@ a {
 
 .copyright {
   padding-right: 35px;
-=======
+}
+
 .mediaVideo {
   margin: 50px auto;
   width: 45%;
->>>>>>> 3e428edb65961fc372a69602a1e7b3f9ca520905
 }
 
 .card {
