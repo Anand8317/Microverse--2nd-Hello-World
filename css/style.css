@@ -1,0 +1,20 @@
+body {
+    background-color: #EEEEEE;
+}
+#header-img {
+    float: left;
+    margin-right: 500px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+      float: left;
+  }
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
